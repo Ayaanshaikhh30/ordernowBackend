@@ -37,7 +37,7 @@ dump.rdb
 # Debugging
 .vscode/
 .idea/
-*.swp
+*.swpgit add .
 *.swo
 *.swn
 
